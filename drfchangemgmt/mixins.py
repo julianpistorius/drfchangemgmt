@@ -1,6 +1,7 @@
 """
     drfchangemgmt.mixins
     ~~~~~~~~~~~~~~~~~~~~
+
     DRF related mixins to add change management functionality
 """
 
