@@ -1,0 +1,4 @@
+site_name: drfchangemgmt
+site_description: Django Rest Framework change management
+repo_url: https://github.com/sassoo/drfchangemgmt
+site_dir: html
