@@ -6,7 +6,7 @@ drfchangemgmt
 Overview
 --------
 
-Django Rest Framework dirty tracking
+Django Rest Framework change management
 
 Requirements
 ------------
